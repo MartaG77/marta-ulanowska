@@ -1,3 +1,25 @@
+.header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
 .logo-list {
    list-style: none;
+}
+.contact {
+   list-style: none;
+   font-size:x-large;
+   margin-right: 50px;
+   text-align: right;
+}
+.navigation {
+   list-style: none;
+   display: flex;
+   justify-content: right;
+   gap: 50px;
+   margin-right: 50px;
+}
+.button {
+
+   background-color: rgb(65, 95, 65);
 }
