@@ -27,4 +27,12 @@
    height: 38px;
    border-radius: 4px;
    border-style: none;
+   font-family: "Century Gothic", san-serif;
+}
+.container {
+   margin: 50px;
+   font-size: x-large;
+}
+.h3 {
+   color:  rgb(91, 90, 80);;
 }
